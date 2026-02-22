@@ -1,8 +1,15 @@
 {
-  "update_time": "2026-02-22 20:46:27",
-  "update_timestamp": 1771764387,
-  "total_count": 51,
+  "update_time": "2026-02-23 00:28:23",
+  "update_timestamp": 1771777703,
+  "total_count": 52,
   "sponsors": [
+    {
+      "user_id": "39cb72126ae711f0bf1852540025c377",
+      "name": "看夏诉",
+      "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
+      "timestamp": 1771766328,
+      "time": "2026-02-22 21:18:48"
+    },
     {
       "user_id": "eaa642ca1d2811edb9dd52540025c377",
       "name": "小萝卜",
