@@ -1,8 +1,15 @@
 {
-  "update_time": "2026-03-26 16:47:12",
-  "update_timestamp": 1774514832,
-  "total_count": 55,
+  "update_time": "2026-03-26 21:02:10",
+  "update_timestamp": 1774530130,
+  "total_count": 56,
   "sponsors": [
+    {
+      "user_id": "ba00049e346611ed890752540025c377",
+      "name": "爱发电用户_ba000",
+      "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+      "timestamp": 1774528030,
+      "time": "2026-03-26 20:27:10"
+    },
     {
       "user_id": "8a45610040ca11ef888452540025c377",
       "name": "Infinity",
