@@ -1,8 +1,15 @@
 {
-  "update_time": "2026-10-19 10:50:48",
-  "update_timestamp": 1792378248,
-  "total_count": 56,
+  "update_time": "2026-10-19 17:30:19",
+  "update_timestamp": 1792402219,
+  "total_count": 57,
   "sponsors": [
+    {
+      "user_id": "0a3a08becb8111f1be245254001e7c00",
+      "name": "森居莫奈",
+      "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/406647b44ac17fedea0c8f435baa3ec7_w100_h100_s3.jpeg",
+      "timestamp": 1792389082,
+      "time": "2026-10-19 13:51:22"
+    },
     {
       "user_id": "ba00049e346611ed890752540025c377",
       "name": "爱发电用户_ba000",
